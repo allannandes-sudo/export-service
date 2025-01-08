@@ -1,4 +1,4 @@
-package com.orders.export_servive.exception;
+package com.orders.export_service.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
