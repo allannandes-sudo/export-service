@@ -22,3 +22,6 @@ logging:
     org.springframework.kafka: DEBUG
     com.orders.processing_servive.kafka.consumer: DEBUG
 
+springdoc:
+  swagger-ui:
+    path: /swagger-ui/index.html
